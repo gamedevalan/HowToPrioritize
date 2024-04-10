@@ -1,2 +1,3 @@
 # HowToPrioritize
  
+“How to Prioritize” is a click-and-drag game that takes players into the setting of a pizzeria. Here, players can interact with pizza ingredients, which represent real life responsibilities and events. By dragging these pizza ingredients onto a default blank pizza dough, the player can customize the pizza. While the pizza ingredients can freely be chosen along with their quantity, the game will not progress unless the player correctly manages the pizza ingredients. This game seeks to teach and reinforce habits to children (12 and under) on how to manage their time throughout a day.
