@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2031178393
+    locked: 0
+  - name: UI Elements
+    uniqueID: 3653336669
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Toppings on Pizza
+    uniqueID: 306402957
+    locked: 0
+  - name: Toppings on Table
+    uniqueID: 2745991277
+    locked: 0
+  - name: SpriteMenu
+    uniqueID: 454700331
+    locked: 0

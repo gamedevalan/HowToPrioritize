@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1802486170725059465
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1802486170725059467}
+  - component: {fileID: 1802486170725059464}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1802486170725059467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1802486170725059465}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.9358368, y: -0.5414554, z: -0.2649536}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1802486170725059464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1802486170725059465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c35df1081c634dbe8465d94ff2359ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  topping_1_table_go: {fileID: 4513105067810991745, guid: 8ac556fbda6894cb7a1ed26290eba3cd, type: 3}
+  topping_1_pizza_go: {fileID: 7443479621796224000, guid: 89cb952367f034e8c8c3b5aeda495ef3, type: 3}
+  topping_2_table_go: {fileID: 2729982358573304189, guid: 1d7944e354c124e11a44bc8a872dd697, type: 3}
+  topping_2_pizza_go: {fileID: 3872132703145171742, guid: 79188fec8963f42f19c978ceb325af1b, type: 3}
+  topping_3_table_go: {fileID: 1870079296746686661, guid: 20ab1e06fb97347b2b6f7c42a0782597, type: 3}
+  topping_3_pizza_go: {fileID: 8841954961307434697, guid: 7a07ec287689148a19df4d3c81030827, type: 3}
+  topping_4_table_go: {fileID: 2715469136300150140, guid: 19d1af0025d334431939cb1a24f86157, type: 3}
+  topping_4_pizza_go: {fileID: 5286187889574633374, guid: f08b813cfd12040c78ad979e3b90cef1, type: 3}
+  topping_5_table_go: {fileID: 5987317811095309391, guid: b194e780af7744117a6a95369795997e, type: 3}
+  topping_5_pizza_go: {fileID: 5955186372000636528, guid: 8bca5f010542343e7be47603ab47194e, type: 3}
+  pizzaDoughGO: {fileID: 500601722401175740, guid: 8ce852d5463c142c6ac744e0cacb94f6, type: 3}
+  trashCanGO: {fileID: 3865692041698010319, guid: 9922886de059d4e85895b4aeb217592f, type: 3}
